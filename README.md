@@ -33,11 +33,11 @@ I'm a student at the National University of Singapore studying Computer Engineer
 
 ### GitHub Stats 📊
 
-<a href="https://github.com/clarencepohh/github-readme-stats">
+<a>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=clarencepohh&hide=stars&include_all_commits=true&theme=tokyonight" alt="GitHub Stats"/>
 </a>
 
-<a href="https://github.com/clarencepohh/github-readme-stats">
+<a>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarencepohh&size_weight=0.5&count_weight=0.5&hide=shaderlab,HLSL&theme=tokyonight" alt="Most used languages"/>
 </a>
 
