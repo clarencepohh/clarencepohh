@@ -8,7 +8,7 @@ I'm a student at the National University of Singapore studying Computer Engineer
     <a href="https://www.linkedin.com/in/clarence-poh-906790202">
         <img alt="Link to my LinkedIn Profile" title="Check out my LinkedIn!" src="https://img.shields.io/badge/My_LinkedIn-grey?logo=linkedin"/>
     </a> 
-    <a href="clarence_pxj@hotmail.com">
+    <a href="mailto:clarence_pxj@hotmail.com">
         <img alt="My Email Address" title="Drop me an Email!" src="https://img.shields.io/badge/Drop_me_an_email!-blue"/>
     </a>
 </p>
