@@ -34,7 +34,7 @@ I'm a student at the National University of Singapore studying Computer Engineer
 ### GitHub Stats 📊
 
 <a>
-    <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=clarencepohh&hide=stars&include_all_commits=true&theme=tokyonight" alt="GitHub Stats"/>
+    <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=clarencepohh&hide=stars&include_all_commits=true&theme=tokyonight" alt="GitHub Stats"/>
 </a>
 
 <a>
