@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=2000&pause=1000&color=A28AF7&vCenter=true&random=false&width=435&lines=I'm+studying+in+NUS!;Computer+Engineer;Specialization+in+IoT)](https://git.io/typing-svg)
 
 I'm a student at the National University of Singapore studying Computer Engineering and pursuing a specialization in Internet of Things (IoT). My GitHub profile showcases some of the projects I've undertaken over the years, both in and out of modules taken. 
-I recently interned at DSO National Laboratories as a Cybersecurity Research Analyst. I'm going on exchange at Korea University soon!
+I recently interned at DSO National Laboratories as a Cybersecurity Research Analyst. 
+I'm currently on exchange at Korea University!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/clarence-poh-906790202">
